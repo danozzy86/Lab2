@@ -1,2 +1,2 @@
 # Lab2
- Lab2 palindrome detector
+ Lab 2 - String Operations
